@@ -5,6 +5,8 @@ EducationalRPG is a blockchain-based educational role-playing game (RPG) that in
 
 ## Contract Address
 0x49bDe2Ad0e2955a901b1F97b39Da25b525Db8346
+![image](https://github.com/user-attachments/assets/1717de30-2dc2-4991-b50c-b3e76cfd77fa)
+
 
 ## Project Vision
 Our vision is to revolutionize education by gamifying the learning process. By leveraging blockchain technology, we ensure transparency, fairness, and accessibility for all users. EducationalRPG seeks to make learning fun, interactive, and rewarding, especially for students and young learners.
